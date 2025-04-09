@@ -14,9 +14,9 @@ In today's high-pressure environment, **stress is inevitable** — but support s
 
 <table>
   <tr>
-    <td><img src="assets/image_1.png" width="200"/></td>
-    <td><img src="assets/image_2.png" width="200"/></td>
-    <td><img src="assets/image_5.png" width="200"/></td>
+    <td><img src="assets/image_1.png" width="250"/></td>
+    <td><img src="assets/image_2.png" width="250"/></td>
+    <td><img src="assets/image_5.png" width="250"/></td>
   </tr>
   <tr>
     <td align="center">Desktop Application</td>
@@ -24,8 +24,8 @@ In today's high-pressure environment, **stress is inevitable** — but support s
     <td align="center">Start your heart beat measurement</td>
   </tr>
   <tr>
-    <td><img src="assets/image_6.png" width="200"/></td>
-    <td><img src="assets/image_7.png" width="200"/></td>
+    <td><img src="assets/image_6.png" width="250"/></td>
+    <td><img src="assets/image_7.png" width="250"/></td>
     <td></td>
   </tr>
   <tr>
