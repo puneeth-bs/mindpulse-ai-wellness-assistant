@@ -116,7 +116,7 @@ npm start
 
 Then, in another terminal window from the project root:
 ```bash
-npm run electron-dev
+npm run electron
 ```
 
 
