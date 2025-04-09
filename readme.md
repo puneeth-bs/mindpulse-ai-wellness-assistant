@@ -95,9 +95,9 @@ In today's high-pressure environment, **stress is inevitable** — but support s
 </table>
 
 
-## 🚀 Running the Frontend (Electron + ReactJS)
+## 🚀 Frontend (Electron + ReactJS)
 
-This project uses **ElectronJS** for building a desktop application with a **ReactJS** frontend.
+This project uses **ElectronJS** for building a desktop application.
 
 ### 🧰 Prerequisites
 
