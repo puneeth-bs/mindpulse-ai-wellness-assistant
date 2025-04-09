@@ -95,6 +95,38 @@ In today's high-pressure environment, **stress is inevitable** — but support s
 </table>
 
 
+## 🚀 Running the Frontend (Electron + ReactJS)
+
+This project uses **ElectronJS** for building a desktop application with a **ReactJS** frontend.
+
+### 🧰 Prerequisites
+
+- [Node.js & npm](https://nodejs.org/) installed
+- Code editor (e.g., VS Code)
+
+---
+
+### 📦 Step 1: Install Dependencies
+
+From the project root directory, run:
+
+```bash
+cd client
+npm install
+npm start
+```
+
+Then, in another terminal window from the project root:
+```bash
+npm run electron-dev
+```
+
+
+
+
+
+
+
 ### 🖥️ Backend (ASP.NET API)
 
 
