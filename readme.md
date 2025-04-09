@@ -106,8 +106,6 @@ This project uses **ElectronJS** for building a desktop application with a **Rea
 
 ---
 
-### 📦 Step 1: Install Dependencies
-
 From the project root directory, run:
 
 ```bash
