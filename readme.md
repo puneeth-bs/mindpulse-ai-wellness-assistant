@@ -26,11 +26,13 @@ In today's high-pressure environment, **stress is inevitable** — but support s
   <tr>
     <td><img src="assets/image_6.png" width="250"/></td>
     <td><img src="assets/image_7.png" width="250"/></td>
+    <td><img src="assets/hardware_1.jpg" width="250"/></td>
     <td></td>
   </tr>
   <tr>
     <td align="center">Application shows your heart beat</td>
     <td align="center">AI gives you some advice to reduce stress</td>
+    <td align="center">MAX30102 sensor connected to Aurdino Uno</td>
     <td></td>
   </tr>
 </table>
@@ -85,11 +87,9 @@ In today's high-pressure environment, **stress is inevitable** — but support s
 
 <table>
   <tr>
-    <td><img src="assets/hardware_1.jpg" width="200"/></td>
     <td><img src="assets/hardware_2.jpg" width="200"/></td>
   </tr>
   <tr>
-    <td align="center">MAX30102 sensor connected to Aurdino Uno</td>
     <td align="center">MAX30102 Heart Rate Sensor</td>
   </tr>
 </table>
