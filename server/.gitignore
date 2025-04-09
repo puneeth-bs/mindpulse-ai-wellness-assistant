@@ -1,0 +1,7 @@
+server/bin/
+server/obj/
+*.user
+*.suo
+*.log
+*.json
+appsettings.Development.json
